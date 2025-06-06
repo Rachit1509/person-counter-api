@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Video uploads and outputs
+uploads/
+outputs/
+
+# Model weights
+*.pt
+
+# System files
+.DS_Store
+*.log
